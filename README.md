@@ -19,3 +19,7 @@ postgres            latest      213.9 MB
 ```bash
 $ make build
 ```
+
+# License
+
+MIT. See `LICENSE` file.
