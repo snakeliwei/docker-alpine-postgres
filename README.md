@@ -10,8 +10,8 @@ with a much smaller footprint. It achieves that by basing itself off the great
 ```bash
 $ docker images
 REPOSITORY          TAG         VIRTUAL SIZE
-alpine-postgres     latest      27.7 MB
-postgres            latest      213.9 MB
+alpine-postgres     latest      22.28 MB
+postgres            latest      213.90 MB
 ```
 
 # Build
